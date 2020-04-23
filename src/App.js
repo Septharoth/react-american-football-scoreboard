@@ -26,6 +26,7 @@ function App() {
             <div className="away__score">{ awayScore }</div>
           </div>
         </div>
+        
         <BottomRow quarter={quarter}/>
       </section>
       <section className="buttons">
